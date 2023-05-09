@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1_PH35761</string>
+    <string name="content">\n    cac thanh phan co ban trong android\n    \n        1. activity \n     \n        2. service \n\n        3. ContentPrivider \n\n        4. BroadCastReceive</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1_PH35761</string>
+    <string name="content" translatable="false">
+         Android- application : \n
+
+        1. activity \n
+
+        2. service \n
+
+        3. ContentPrivider \n
+
+        4. BroadCastReceive
+
+    </string>
+</resources>
